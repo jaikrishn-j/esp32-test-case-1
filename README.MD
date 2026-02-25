@@ -10,7 +10,7 @@ Follow these steps to set up the project on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/jaikrishn-j/esp32_soil.git
+git clone https://github.com/jaikrishn-j/esp32-test-case-1.git
 cd esp32_soil
 ```
 
